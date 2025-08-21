@@ -1,0 +1,5 @@
+{
+  "name": "Copy of KitchenMetrics 1.001",
+  "description": "An application for restaurants and kitchens to manage recipes, production, service tasks, and batches. It features role-based access for Admins, Production, Service, and Kitchen staff, with a focus on a simple, user-friendly interface.",
+  "requestFramePermissions": []
+}
